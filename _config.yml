@@ -22,7 +22,7 @@ defaults:
 author:
   name   : "Facturas"
   avatar : "img/facturas.png"
-  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
+  bio    : "Vocabulario para la representación de datos sobre las facturas."
   links:
     - label: "Página web"
       icon: "fas fa-fw fa-link"

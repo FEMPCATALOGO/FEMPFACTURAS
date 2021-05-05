@@ -22,7 +22,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Sector público | Terminado | *[Página web]()* *[Repositorio](https://github.com/opencitydata/sector-publico-facturas)*   |  *[Generar issue](https://github.com/opencitydata/sector-publico-facturas/issues)*   | Vocabulario para la representación de datos sobrefacturas.  |  |  | rdf+xml   html   turtle | CC-BY  | es   en   |
+| Sector público | Terminado | *[Repositorio](https://github.com/opencitydata/sector-publico-facturas)*   |  *[Generar issue](https://github.com/opencitydata/sector-publico-facturas/issues)*   | Vocabulario para la representación de datos sobrefacturas.  |  |  | rdf+xml   html   turtle | CC-BY  | es   en   |
  
  
   

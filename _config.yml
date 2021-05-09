@@ -24,9 +24,6 @@ author:
   avatar : "img/facturas.png"
   bio    : "Vocabulario para la representación de datos sobre las facturas."
   links:
-    - label: "Página web"
-      icon: "fas fa-fw fa-link"
-      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/opencitydata/sector-publico-facturas"
